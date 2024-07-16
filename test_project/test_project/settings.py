@@ -31,7 +31,8 @@ ALLOWED_HOSTS = [
     "api",
     "127.0.0.1",
     "localhost",
-    "213.199.51.233"
+    "213.199.51.233",
+    "luissantosjs.com"
 ]
 
 INTERNAL_IPS = ["127.0.0.1"]
